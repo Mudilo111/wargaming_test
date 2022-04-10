@@ -1,0 +1,10 @@
+_pycache_
+*.pyc
+.idea
+*.log
+*.css
+*.pytest_cache
+*.cache
+venv/*
+egg-info
+*.db
